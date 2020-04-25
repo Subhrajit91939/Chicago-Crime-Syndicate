@@ -1,7 +1,7 @@
 # Chicago-Crime-Syndicate
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
-This Repository contains my first Data Analysis Project on Chicago Crime Detection (Week- 2 Assignment of CAC IIT-G's Summer Analytics Course, feel free to Fork and pull requests and report issues (or) suggest alternatives to code in the Python Notebook :notebook:. 
+This Repository contains my first Data Analysis Project on Chicago Crime Detection (Week- 2 Assignment of CAC IIT-G's Summer Analytics Course) feel free to Fork and pull requests and report issues (or) suggest alternatives to code in the Python Notebook :notebook:. 
 
 
 ### ***Prerequsites and few python libraries you should know before attempting this:***
