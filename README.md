@@ -4,7 +4,7 @@
 This Repository contains my first Data Analysis Project on Chicago Crime Detection (Week- 2 Assignment of CAC IIT-G's Summer Analytics Course, feel free to Fork and pull requests and report issues (or) suggest alternatives to code in the Python Notebook :notebook:. 
 
 
-## ***Prerequsites and few python libraries you should know before attempting this:***
+### ***Prerequsites and few python libraries you should know before attempting this:***
   - Basic Python Programming :wink:
   - Pandas 
   - Numpy
@@ -12,10 +12,12 @@ This Repository contains my first Data Analysis Project on Chicago Crime Detecti
   - Seaborn
   - last but not the least, a little bit of patience and a pinch of interest and passion in equal quantities.
 
-## ***Guide for Beginners***
+### ***Guide for Beginners***
 - ***Step - 1*** : Download 
 - ***Step - 2*** : Download ZIP
 - ***Step - 3*** : Open Jupyter Notebook/Lab (or) Google Colab
 - ***Step - 4*** : Upload the `Problems` Python Notebook and the ``Chicago_Crime_Detective.csv`` dataset to the same folder
 - ***Step - 5*** : Start Analysing 🔨🔨🔨
 - ***Step - 6*** : Refer to the `Solutions` Python Notebook.
+
+#### All Project files goes live on : 1st May 2020 (Tentatively)
