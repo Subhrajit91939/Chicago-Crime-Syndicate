@@ -1,5 +1,8 @@
 # Chicago-Crime-Syndicate
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
 
 This Repository contains my first Data Analysis Project on Chicago Crime Detection (Week- 2 Assignment of CAC IIT-G's Summer Analytics Course) feel free to Fork and pull requests and report issues (or) suggest alternatives to code in the Python Notebook :notebook:. 
 
